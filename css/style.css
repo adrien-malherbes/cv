@@ -1,0 +1,14 @@
+header{
+    text-align: center;
+}
+address{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    margin: 20px;
+}
+section{
+    display: flex;
+    flex-direction: column;
+    width: min-content;
+}
